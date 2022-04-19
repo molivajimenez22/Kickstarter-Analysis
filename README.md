@@ -10,7 +10,6 @@ The purpose of this analysis is to enable data driven decisions to inform future
 
 [Theater Outcomes Based on Launch Date](https://github.com/molivajimenez22/Kickstarter-Analysis/blob/main/Theather_Outcomes_Vs_Launch.png)
 
-
 ### Analysis of Outcomes Based on Goals
 
 [Outcomes Based on Goals](https://github.com/molivajimenez22/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
