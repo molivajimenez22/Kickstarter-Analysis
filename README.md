@@ -8,12 +8,12 @@ The purpose of this analysis is to enable data driven decisions to inform future
 
 ### Analysis of Outcomes Based on Launch Date
 
-[Theater Outcomes Based on Launch Date]
+[Theater Outcomes Based on Launch Date](https://github.com/molivajimenez22/Kickstarter-Analysis/blob/main/Theather_Outcomes_Vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
 
-[Outcomes Based on Goals]()
+[Outcomes Based on Goals](https://github.com/molivajimenez22/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encoutered
 A challenge was encourtered when creating an analysis based on Goal outcomes and needing to manually entered formulas. There was a lot of time spent in ensuring formulas were accurate throughout the goal groupings. 
