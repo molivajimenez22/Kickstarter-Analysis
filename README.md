@@ -7,10 +7,12 @@ Performing analysis on kickstarter data to uncover trends in fundraising campaig
 The purpose of this analysis is to enable data driven decisions to inform future campaigns. The workbook includes pivots that can help highlight details for specific campaigns, years, and categories. 
 
 ### Analysis of Outcomes Based on Launch Date
+This chart shows outcomes for theather campaigns based on launch date.
 
 [Theater Outcomes Based on Launch Date](https://github.com/molivajimenez22/Kickstarter-Analysis/blob/main/Theather_Outcomes_Vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+This chart shows outcomes for plays based on Goals.
 
 [Outcomes Based on Goals](https://github.com/molivajimenez22/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 
